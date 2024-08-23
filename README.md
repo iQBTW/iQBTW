@@ -1,2 +1,4 @@
-# Hello there 
-#---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Hello-hello there !
+I'm Rizqy Arniza, but you can call me Rizqy or Iq. been diving deep into full-stack web development and just wrapped up my final semester in Computer Science. Nice to meet you guys!
+# Techstack
+
